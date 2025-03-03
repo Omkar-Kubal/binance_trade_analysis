@@ -1,0 +1,11 @@
+[2025-03-03 10:38:05,026] 7 logging_config - INFO - Loading dataset...
+[2025-03-03 10:38:05,026] 12 logging_config - INFO - Loaded existing structured trade data.
+[2025-03-03 10:38:05,420] 49 logging_config - INFO - Calculated account metrics successfully.
+[2025-03-03 10:38:05,427] 69 logging_config - INFO - Account metrics saved as 'account_metrics.csv'.
+[2025-03-03 10:38:05,434] 76 logging_config - INFO - Top 20 accounts saved as 'top_20_accounts.csv'.
+[2025-03-03 10:38:05,434] 80 logging_config - INFO - Displaying top accounts based on ROI, Sharpe Ratio, and MDD.
+[2025-03-03 10:38:05,495] 97 logging_config - INFO - Summary - Highest ROI: 12.18%
+[2025-03-03 10:38:05,495] 98 logging_config - INFO - Summary - Highest Sharpe Ratio: 3381.48
+[2025-03-03 10:38:05,495] 99 logging_config - INFO - Summary - Lowest MDD: 100.00%
+[2025-03-03 10:38:05,495] 100 logging_config - INFO - Summary - Highest Win Rate: 80.26%
+[2025-03-03 10:38:05,495] 103 logging_config - INFO - Execution completed successfully.
